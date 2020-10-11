@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Ulos</string>
+    <string name="preview_area">Preview Area</string>
+    <string name="capture">Capture</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="select_image_source">Select Image Source</string>
+    <string name="select_image">Select Image</string>
+    <string name="submit">Submit</string>
+    <string name="select_image_title">Add an Ulos Image</string>
+    <string name="name">name</string>
+    <string name="description">Description</string>
+    <string name="cultural_background">Cultural Background</string>
+    <string name="function">Function</string>
+    <string name="ulos_ragi_hotang_desc">
+        Ragi = Pattern, Hotang = Rattan, this Ulos has a rattan pattern. At the time of the wedding, this ulos reminds us that the bonds of the two pairs will be strong and sturdy like rattan.
+    </string>
+    <string name="ulos_bintang_maratur_desc">This ulos describes an orderly row of stars, meaning obedience and harmony in kinship ties.</string>
+    <string name="ulos_mangiring_desc">It has a muted pattern that symbolizes fertility and agreement.</string>
+    <string name="ulos_suri_suri_desc">
+        This Ulos must have 33 lines. The meaning of the motif in ulos itself defines the characteristics of the Batak people who are firm in one position and always pass down to their children and grandchildren.
+    </string>
+    <string name="ulos_sibolang_desc">The pattern on this Ulos cloth is an abstract motif that has spikes. (the motif is pointed like a fence)</string>
+
+    <string name="ulos_ragi_hotang_cb">The Batak people from ancient times were mountainous communities, where the forest was one of their sources of livelihood. Rattan is abundant and easy to find in the Batak land area and is the most frequently used tool for grader because of the strength and durability of the rattan itself. So that rattan is used as a pattern on the ulos cloth as a symbol of a strong bond in marriage.
+In an old story in the history of the naming of "Batak" rattan is also mentioned in the story as a plant that made a migrant enter the forest which eventually became Batak land.
+    </string>
+    <string name="ulos_bintang_maratur_cb">In the early days of evangelism, the gospel was preached on Samosir Island, so that the gospel greatly influenced the lives of the people of Samosir Island. In this case, one of the verses in the Bible Genesis 26 verse 4 "I will make many of your descendants like stars in the sky …" is the source of the association of the star image on the motif of the Maratur Star ulos cloth. Where this cloth is a symbol of the many divine.
+In general, the Batak people have great respect for their parents, they say their parents are guardians of Allah in the world. So the star pattern on this cloth is depicted in a parallel and neat way to emphasize obedience and harmony in the family, especially the obedience of a child to his parents.
+    </string>
+    <string name="ulos_mangiring_cb">The depiction of the pattern on this ulos cloth is described abstractly by looking at the shapes found around it (geometric).
+These shapes are drawn together to symbolize mutual agreement. Especially in forming a family. The Batak people have the principle of life of Dalihan Na Tolu, a kind of the oldest Batak democracy, in which they place great emphasis on the kinship system (marga) as a tool of unification and classification.
+can distinguish between individuals and individuals, but the system itself unites the person with the person. So that maintaining the lineage of their clan is the main thing in life. This agreement is intended to carry out this philosophy system.
+    </string>
+    <string name="ulos_suri_suri_cb">The drawing of straight lines was due to the use of the loom at that time, so that straight lines became the most basic patterns in ulos cloth.
+This straight line is drawn as many as 33 lines because in each line it is counted with the words "Diau-Diho", which means "I-with you" which on the 33rd line is still on the count of "with me", which means mine is must be taken care of.
+The line pattern is only drawn one line to emphasize the distinctive personality traits of the Batak people who always stick to one stance.
+    </string>
+    <string name="ulos_sibolang_cb">The Batak community strongly adhere to the foundation of the “Dalihan Na Tolu“, in which the family is the main thing. So that when someone is abandoned, that person will feel deep sadness but the Batak people will remain strong and patient in facing their grief. This pointed pattern facing upwards on the ulos symbolizes that the Batak people always bear all their burdens patiently and so many sharp trips or struggles,
+he is always strong in facing all his problems and continues to look forward to the top.
+    </string>
+
+    <string name="ulos_ragi_hotang_function">It is given at wedding to strengthen the bond between the bride and groom</string>
+    <string name="ulos_bintang_maratur_function">Samosir: Given to women who are 7 months pregnant. (Smooth the process of birth and get the next offspring).
+Other areas: Given to daughters and sisters at the time of naming.
+(Obey and respect parents).
+    </string>
+    <string name="ulos_mangiring_function">Samosir: Given to women who are 7 months pregnant. (Smoothing the process of childbirth and childbirth accompanied by subsequent children).
+Other areas: Given to the first child in a new family (children aged min. 2 weeks).
+    </string>
+    <string name="ulos_suri_suri_function">Ulos is an ulos that has been passed down from generation to generation to posterity in the Batak family.
+Ancient times: used by kings or traditional elders in certain events. (Crossed over the chest and there is also over the chest).
+    </string>
+    <string name="ulos_sibolang_function">This ulos is given at a funeral ceremony. Adults who died but did not have one
+When given the grandson named Ulos Saput. Men who are left by their wives and women whose husbands leave when they are given is called Ulos Tujung.
+(To be patient in facing difficulties)
+    </string>
+</resources>

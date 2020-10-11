@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Ulos</string>
+    <string name="preview_area">Lokasi Pratinjau</string>
+    <string name="capture">Ambil Gambar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="select_image_source">Pilih Sumber Gambar</string>
+    <string name="select_image">Pilih Gambar</string>
+    <string name="submit">Submit</string>
+    <string name="select_image_title">Tambahkan Gambar Ulos</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="cultural_background">Latar Belakang Budaya</string>
+    <string name="function">Fungsi</string>
+
+    <string name="ulos_ragi_hotang_desc">
+        Ragi = Corak, Hotang = Rotan, Ulos ini memiliki corak rotan, pada saat pernikahan ulos ini mengingatkan bahwa ikatan kedua pasang an akan kuat dan kokoh seperti rotan.
+    </string>
+    <string name="ulos_bintang_maratur_desc">Ulos ini menggambarkan jejeran bintang yang teratur, bermakna kepatuhan dan kerukunan dalam ikatan kekeluargaan.</string>
+    <string name="ulos_mangiring_desc">Memiliki corak saling beriringan yang melambangkan kesuburan dan kesepakatan.</string>
+    <string name="ulos_suri_suri_desc">
+        Ulos ini harus memiliki 33 garis. Arti motif pada ulos ini sendiri mengartikan ciri khas orang Batak yang teguh dalam satu pendirian dan selalu menurun kepada anak cucunya.
+    </string>
+    <string name="ulos_sibolang_desc">Corak pada kain Ulos ini merupakan motif abstrak yang memiliki runcing. (motifnya runcing berbentuk seperti pagar)</string>
+
+    <string name="ulos_ragi_hotang_cb">Masyarakat Batak dari jaman dulu merupakan masyarakat pegunungan, di mana hutan merupakan salah satu sumber mata pencaharian mereka. Rotan banyak dan mudah ditemukan di daerah tanah Batak dan menjadi alat pengingkat barang yang paling sering digunakan karena kekuatan dan ketahan dari rotan itu sendiri. Sehingga rotan dijadikan corak pada kain ulos sebagai lambang dari ikatan yang kokoh dalam pernikahan.
+Dalam sebuah kisah lama dalam sejarah penamaan “Batak” rotan juga disebutkan dalam cerita sebagai tanaman yang membuat seorang pendatang memasuki hutan yang akhirnya menjadi tanah Batak.
+    </string>
+    <string name="ulos_bintang_maratur_cb">Pada awal pemulaan penginjilan, injil diberitakan di Pulau Samosir, sehingga injil sangat mempengaruhi kehidupan masyarakat Pulau Samosir. Dalam hal ini, salah satu ayat dalam Alkitab Kejadian 26 ayat 4 “Aku akan membuat banyak keturunanmu seperti bintang di langit....” menjadi sumber pengasosiasian gambar bintang pada corak kain ulos Bintang Maratur. Dimana kain ini menjadi lambang keturanan yang banyak.
+Secara umum orang Batak sangat menghormati orang tua, mereka mengatakan orang tua merupakan wali Allah di dunia. Maka corak bintang pada kain ini digambarkan secara sejajar dan rapi untuk menegaskan kepatuhan dan kerukunan dalam keluarga, terutama kepatuhan seorang anak kepada orang tuanya.
+    </string>
+    <string name="ulos_mangiring_cb">Pengambaran corak pada kain ulos ini digambarkan secara abstrak dengan melihat dari bentuk- bentuk yang ditemukan di sekitarnya (geometris).
+Bentuk ini digambarkan secara beriringan untuk melambangkan kesepakatan bersama. Terutama dalam membentuk keluarga. Masyarakat Batak memiliki prinsip hidup Dalihan Na Tolu, semacam demokrasi Batak yang tertua, di mana di dalamnya mereka sangat menekankan pada sistem kekeluargaan (marga) sebagai alat penyatuan dan penggolongan
+dapat membedakan pribadi dengan pribadi, namun sistem itu sendiri menyatukan pribadi dengan pribadi. Sehingga mempertahankan garis keturanan marga mereka merupakan hal utama dalam kehidupan. Kesepakatan inilah yang dituju untuk menjalankan sistem falsafah tersebut.
+    </string>
+    <string name="ulos_suri_suri_cb">Penggambaran garis lurus dikarenakan pengunaan alat tenun saat itu, sehingga garis lurus menjadi corak paling dasar dalam kain ulos.
+Garis lurus ini digambarkan sebanyak 33 garis karena dalam setiap garis dihitung dengan kata-kata “Diau-Diho”, yang artinya “sama aku- sama kau” yang pada garis ke-33 tetap pada hitungan “sama aku”, yang artinya kepunyaan aku yang harus dijaga.
+Corak garis hanya digambarkan satu garis saja untuk mempertegas ciri khas kepribadian masyarakat Batak yang selalu berpegang teguh pada satu pendirian.
+    </string>
+    <string name="ulos_sibolang_cb">Masyarakat Batak sangat memegang teguh landasan “Dalihan Na Tolu“, di dalamnya keluarga merupakan hal utama. Sehingga ketika seseorang ditinggalkan, orang tersebut akan merasakan kesedihan yang mendalam tetapi orang Batak akan tetap kuat dan sabar dalam menghadapi dukanya. Corak runcing menghadap keatas pada ulos ini melambangkan kalau orang Batak itu selalu menanggung semua bebannya dengan sabar dan begitu banyaknya perjalanan yang tajam ataupun pergumulan,
+dia selalu kuat menghadapi semua persoalannya dan terus memandang maju ke atas.
+    </string>
+
+    <string name="ulos_ragi_hotang_function">Diberikan pada saat pernikahan untuk penguat ikatan batin kedua mempelai</string>
+    <string name="ulos_bintang_maratur_function">Samosir : Diberikan kepada wanita yang sedang hamil 7 bulan. (Melancarkan proses kelahiran dan mendapat keturunan berikutnya).
+Daerah lain: Diberikan kepada anak saudari perempuan pada saat pemberian nama.
+(Patuh dan menghormati orangtua).
+    </string>
+    <string name="ulos_mangiring_function">Samosir : Diberikan kepada wanita yang sedang hamil 7 bulan. (Melancar- kan proses kelahiran dan kelahiran anak diiringi dengan anak selanjutnya).
+Daerah lain: Diberikan kepada anak pertama pada suatu keluarga baru (anak berumur min. 2 minggu).
+    </string>
+    <string name="ulos_suri_suri_function">Ulos ini merupakan ulos yang diwariskan turun-temurun kepada anak cucu dalam keluarga Batak.
+Jaman dahulu: dipakai oleh raja-raja atau tua-tua adat dalam acara tertentu. (Disilangkan di dada dan ada juga menyelimuti dada).
+    </string>
+    <string name="ulos_sibolang_function">Ulos ini diberikan pada saat upacara dukacita. Orang dewasa yang meninggal tetapi belum punya
+cucu ketika diberikan dinamakan Ulos Saput. Laki-laki yang ditinggal istri maupun perempuan yang ditinggal suami ketika diberikan dinamakan Ulos Tujung.
+(Agar sabar menghadapi kesulitan)
+    </string>
+</resources>

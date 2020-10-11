@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80ed99</color>
+    <color name="colorPrimaryDark">#57cc99</color>
+    <color name="colorAccent">#22577a</color>
+    <color name="cadetBlue">#38A3A5</color>
+    <color name="teaGreen">#C7F9CC</color>
+    <color name="teaGreen90">#90C7F9CC</color>
+    <color name="ecstasy">#FB7813</color>
+
+    <color name="blue">#25378d</color>
+    <color name="lightBlue">#00a9e8</color>
+    <color name="red">#e74011</color>
+    <color name="placeholderText">#b0b7cc</color>
+    <color name="placeholderText80">#80b0b7cc</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white70">#50ffffff</color>
+    <color name="grey">#b7b7b7</color>
+    <color name="greyLight">#bcbcbc</color>
+    <color name="greyLight80">#80bcbcbc</color>
+    <color name="grey600">#ffb7b7b7</color>
+    <color name="greyDefault">#e6e6e6</color>
+    <color name="greyText">#909090</color>
+
+    <color name="black">#000000</color>
+    <color name="blackAlpha90">#90000000</color>
+    <color name="icon_grey">#808285</color>
+    <color name="darkTextColor">#414042</color>
+
+    <color name="orange">#f07f00</color>
+    <color name="green">#33cc99</color>
+    <color name="yellow">#f6a200</color>
+
+    <color name="monokaiWhite">#fff7fb</color>
+    <color name="monokaiBlack">#272822</color>
+
+    <color name="paletteGreen">#2ec9a1</color>
+    <color name="PaletteBlue">#00b0ec</color>
+</resources>

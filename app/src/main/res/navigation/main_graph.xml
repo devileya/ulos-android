@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/selectImageFragment">
+
+    <fragment
+        android:id="@+id/selectImageFragment"
+        android:name="com.devileya.ulos.view.SelectImageFragment"
+        android:label="CameraFragment">
+        <action
+            android:id="@+id/goToUlosDetailFragment"
+            app:destination="@id/ulosDetailFragment">
+            <argument
+                android:name="id"
+                android:defaultValue="-1"
+                app:argType="integer" />
+            <argument
+                android:name="name"
+                app:argType="string" />
+            <argument
+                android:name="image"
+                app:argType="android.graphics.Bitmap"
+                />
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/ulosDetailFragment"
+        android:name="com.devileya.ulos.view.UlosDetailFragment"
+        android:label="UlosDetailFragment" />
+</navigation>
